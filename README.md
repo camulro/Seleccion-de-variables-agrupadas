@@ -1,3 +1,6 @@
 # Seleccion-de-variables-agrupadas
-Para reproducir los resultados es necesario descargarlos en: https://drive.google.com/drive/folders/19rLDGp1sQrWqGae336fUCVifdBYDi3TC?usp=drive_link
 
+Para reproducir los resultados del capítulo 4 hay que correr ExperimentosTFM.Rmd y descargar los resultados en la carpeta Resultados_simulados:
+https://drive.google.com/drive/folders/19rLDGp1sQrWqGae336fUCVifdBYDi3TC?usp=drive_link
+
+Para reproducir los del alzheimer, capítulo 5, hay que correr alzheimer.Rmd y descargar los resultados en la carpeta Alzheimer: https://drive.google.com/drive/folders/1ikiPZoOGYLcOc90YJpky1qaHGRTeeaou?usp=drive_link
