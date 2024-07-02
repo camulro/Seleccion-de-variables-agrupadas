@@ -1,6 +1,6 @@
-# Seleccion-de-variables-agrupadas
+# Selección de variables agrupadas
 
-El código de la selección de variables considerando la estructura de grupo se encuentra en GibbsSampling.R.
+El código de la selección de variables en regresión logística considerando la estructura de grupo se encuentra en GibbsSampling.R.
 
 Para reproducir los resultados del capítulo 4 hay que correr ExperimentosTFM.Rmd y descargar los resultados en la carpeta Resultados_simulados:
 https://drive.google.com/drive/folders/19rLDGp1sQrWqGae336fUCVifdBYDi3TC?usp=drive_link
